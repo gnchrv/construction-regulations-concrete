@@ -1,0 +1,15 @@
+{
+  "name": "@construction-regulations/concrete",
+  "version": "0.0.0",
+  "description": "A small dataset based on Construction Regulations of the Russian Federation 🇷🇺 in the field of reinforced concrete constructions",
+  "main": "index.js",
+  "keywords": ["dataset", "ru", "standards"],
+  "homepage": "https://github.com/gnchrv/construction-regulations-concrete",
+  "repository": "https://github.com/gnchrv/construction-regulations-concrete",
+  "author": {
+    "name": "Misha Goncharov",
+    "url": "https://goncharov.io",
+    "email": "misha@goncharov.io"
+  },
+  "license": "ISC"
+}
