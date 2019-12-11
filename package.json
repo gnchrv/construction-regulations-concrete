@@ -1,6 +1,6 @@
 {
   "name": "@construction-regulations/concrete",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A small dataset based on Construction Regulations of the Russian Federation 🇷🇺 in the field of reinforced concrete constructions",
   "main": "index.js",
   "keywords": ["dataset", "ru", "standards"],
